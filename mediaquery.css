@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px) {
+    .card {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .search {
+        flex-direction: column;
+    }
+
+    .search input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .search button {
+        width: 40%;
+    }
+
+    .weather h1 {
+        font-size: 50px;
+    }
+
+    .weather h2 {
+        font-size: 30px;
+    }
+
+    .details {
+        flex-direction: column;
+    }
+
+    .col {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
